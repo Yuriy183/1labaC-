@@ -1,0 +1,16 @@
+using System;
+
+namespace _1_я_программа_на_С_sharp_
+{
+    class Program
+    {
+        static void Main()
+        {
+            int a, b, c;
+            a = 2;
+            b = 4;
+            c = a * b;
+            Console.WriteLine("c="+c);
+        }
+    }
+}
